@@ -44,8 +44,9 @@ gifts = {
     "smallgift",
     "biggift",
     "massivegift",
+    "wings_2022_bucks_wing_chest",
     "legend_hat_2022_simple_chest",
-    "legend_hat_2022_regal_chest"
+    "legend_hat_2022_regal_chest",
 }
 Obbys = {
     "miniworld",
