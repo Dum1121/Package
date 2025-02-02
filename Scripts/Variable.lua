@@ -26,3 +26,5 @@ Mouse = plr:GetMouse()
 mouse = Mouse
 
 PlaceId,JobId,GameId = game.PlaceId,game.JobId,game.GameId
+
+Variable = true
