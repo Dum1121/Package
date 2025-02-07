@@ -1,3 +1,4 @@
+repeat wait until game:IsLoaded() and game.Players.LocalPlayer and game.ReplicatedStorage and game.CoreGui and game.RunService
 UserInputService = game:GetService("UserInputService")
 RunService = game:GetService("RunService")
 TweenService = game:GetService("TweenService")
